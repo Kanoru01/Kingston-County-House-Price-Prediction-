@@ -23,4 +23,4 @@ id, date, price, bedrooms, bathrooms, sqft_living, sqft_loft, floors, waterfront
 After cleaning the data, examining various correlations, feature engineering, and determining iif the dataset was a good candidate for a Linear Regression, we were able to run a Polynomial regression model and achieve an accuracy rate of 70.7%.
 
 ## Conclusion
-Complex Model_2 gives us R-squared (testing) score of 0.707. From above reports, we can conclude that Polynomial regression for degree=3 is the best solution.
+Complex Model_2 gives us R-squared (testing) score of 0.707. Therefore, we can conclude that a Polynomial regression model for degree=3 is the best solution.
